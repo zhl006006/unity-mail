@@ -1,8 +1,9 @@
 # unity-mail
 unity发送邮件系统
 <br>
+支持  windows、android、ios
 <br>
-
+<br>
 ```c#
 
 SmtpServer smtp = new SmtpServer('smtp.exmail.mail.com');
