@@ -5,6 +5,7 @@ using System.Text;
 namespace Qingame.Mail
 {
     /// <summary>
+    /// socket助手
     /// </summary>
     public class SocketHelper
     {

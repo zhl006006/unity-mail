@@ -5,6 +5,7 @@ using System.Threading;
 namespace Qingame.Mail
 {
     /// <summary>
+    /// SmtpServer
     /// </summary>
     public class SmtpServer
     {

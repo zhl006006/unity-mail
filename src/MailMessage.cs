@@ -4,6 +4,7 @@ using System.Text;
 namespace Qingame.Mail
 {
     /// <summary>
+    /// 邮件信息
     /// </summary>
     public class MailMessage
     {
